@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Siham, I'm a researcher who is trying to find my own space in tech.
 - 👀 I’m interested in digital health, AI, medicine and data!
-- 🌱 I’m currently learning javascript and python, having recently joined an intro to Web Development, Python & Apps and SQL programming courses with @CodeFirstGirls
+- 🌱 I have recently joined an intro to Web Development, Python & Apps and SQL programming courses with @CodeFirstGirls, and will be sharing some of my projects here.
 - 💞️ I’m looking to collaborate on beginner-level fullstack or data projects! 
 - 📫 Reach me @sihamad9 on Twitter!
 
